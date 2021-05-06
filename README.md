@@ -35,6 +35,6 @@
 
 # Автор
 
-Зайнуллин Марат
-E-mail: zaynullin.m.f@gmail.com
-Telegram @ggwpwcg
+- Зайнуллин Марат
+- E-mail: zaynullin.m.f@gmail.com
+- Telegram @ggwpwcg
